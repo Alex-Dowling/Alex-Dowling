@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on GroundWater
+- 🔭 I’m currently working on Groundwater
 - 🌱 I’m currently learning Gegagedigedagedago
 - 👯 I’m looking to collaborate on Auto Desk Inventor
 - 🤔 I’m looking for help with TwiddleFinger
