@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Groundwater
 - 🌱 I’m currently learning Gegagedigedagedago
-- 👯 I’m looking to collaborate on Auto Desk Inventor
-- 🤔 I’m looking for help with TwiddleFinger
+- 👯 I’m looking to collaborate on Autodesk Inventor
+- 🤔 I’m looking for help with Twiddlefinger
 - 💬 Ask me about Max Design Pro lore
 - 📫 How to reach me: idk figure it out
 - 😄 Pronouns: Phobos/Deimos
