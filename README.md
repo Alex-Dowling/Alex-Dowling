@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Black Jack (part time)
-- 🌱 I’m currently learning nothing
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning Nothing!
 - 👯 I’m looking to collaborate on Autodesk Inventor
 - 🤔 I’m looking for help with coding Black Jack
 - 💬 Ask me about Max Design Pro lore
 - 📫 How to reach me: idk figure it out
-- 😄 I gave up finishing GURKA
+- 😄 I gave up finishing GURKA!
 - ⚡ Fun fact: Caleb Wallice is the GOAT
 - Finished projects: Weather Program, Colorblind, Number code, MPG code
 -->
