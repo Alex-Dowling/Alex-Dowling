@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Max Design Pro lore
 - 📫 How to reach me: idk figure it out
 - 😄 I gave up finishing GURKA!
-- ⚡ Fun fact: Caleb Wallice is the GOAT
+- ⚡ Fun fact: Caleb Wallace is the GOAT
 - Finished projects: Weather Program, Colorblind, Number code, MPG code
 -->
