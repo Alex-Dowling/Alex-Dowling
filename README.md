@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning Nothing!
 - 👯 I’m looking to collaborate on Autodesk Inventor
-- 🤔 I’m looking for help with coding Black Jack
+- 🤔 I’m looking for help with groundwater
 - 💬 Ask me about Max Design Pro lore
 - 📫 How to reach me: idk figure it out
 - 😄 I gave up finishing GURKA!
